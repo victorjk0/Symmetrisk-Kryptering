@@ -1,0 +1,13 @@
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Symmetrisk-Kryptering.exe
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Symmetrisk-Kryptering.deps.json
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Symmetrisk-Kryptering.runtimeconfig.json
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Symmetrisk-Kryptering.runtimeconfig.dev.json
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Symmetrisk-Kryptering.dll
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\bin\Debug\netcoreapp3.1\Symmetrisk-Kryptering.pdb
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Symmetrisk-Kryptering.csprojAssemblyReference.cache
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Symmetrisk-Kryptering.csproj.CoreCompileInputs.cache
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Symmetrisk-Kryptering.AssemblyInfoInputs.cache
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Symmetrisk-Kryptering.AssemblyInfo.cs
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Symmetrisk-Kryptering.dll
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Symmetrisk-Kryptering.pdb
+C:\Users\Victor Jakobsen\source\repos\Symmetrisk-Kryptering\Symmetrisk-Kryptering\obj\Debug\netcoreapp3.1\Symmetrisk-Kryptering.genruntimeconfig.cache
